@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Zhang Xiaoxiong, a PhD student 👨‍💻 in Nanyang Technological University since 2021 🚀</div>  
+### <div align="center">I'm Zhang Xiaoxiong, a PhD student 👨‍💻 in Nanyang Technological University since 20 🚀</div>  
   
 
 - 🔭 I’m currently working on [QE](https://github.com/ntuzxx/QE/blob/master/QE_video.zip)  
@@ -62,14 +62,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/ntuzxx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -112,4 +106,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
