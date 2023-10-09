@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Zhang Xiaoxiong, a PhD student 👨‍💻 in Nanyang Technological University since 20 🚀</div>  
+### <div align="center">I'm Zhang Xiaoxiong, a PhD student 👨‍💻 in Nanyang Technological University since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [QE](https://github.com/ntuzxx/QE/blob/master/QE_video.zip)  
